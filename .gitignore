@@ -1,0 +1,6 @@
+# Local project records and production deployment details
+/图片压缩ImageSizer.md
+/deploy/
+node_modules/
+package-lock.json
+.DS_Store
